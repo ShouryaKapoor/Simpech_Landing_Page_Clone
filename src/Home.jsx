@@ -65,7 +65,7 @@ const Intro = () => (
         initial={{ y: 50, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ delay: 0.4, duration: 0.6 }}
-        className="text-xl text-blue max-w-2xl mx-auto mb-8"
+        className="text-xl text-blue-600 max-w-2xl mx-auto mb-8"
       >
         Empowering Your Business with Cutting-Edge Technology Solutions
       </motion.p>
