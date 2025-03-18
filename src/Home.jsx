@@ -73,7 +73,7 @@ const Intro = () => (
         initial={{ y: 50, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ delay: 0.4, duration: 0.6 }}
-        className="text-[10px] text-gray-600 max-w-2xl mx-auto mb-8"
+        className="text-[20px] text-gray-600 max-w-2xl mx-auto mb-8"
       >At Simpech, we don't just build software – we craft digital experiences that drive growth, enhance efficiency, and revolutionize the way you do business. Discover our suite of innovative products designed to meet your unique needs.
         
       </motion.p>
